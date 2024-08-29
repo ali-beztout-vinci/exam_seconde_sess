@@ -38,8 +38,8 @@ Don't hesitate to run the command to check the final output of your application.
 This has been built with the version 18.18 of Node JS
 
 ### Exam information - to be completed
-- Student (Lastname and Firstname) :
-- GitHub repository URL :
+- Student (Lastname and Firstname) : BEZTOUT ALI    
+- GitHub repository URL : https://github.com/ali-beztout-vinci/exam_seconde_sess
 - Azure Static Web app URL : 
 # exam_seconde_sess
 # exam_seconde_sess
